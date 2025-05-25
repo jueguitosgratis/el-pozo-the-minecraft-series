@@ -1,0 +1,86 @@
+[05:12:55] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.14
+[05:12:56] [main/INFO]: Loading 44 mods:
+	- fabric-api 0.102.0+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.16+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.19+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.12+ba9dae06d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.4+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
+	   |-- fabric-loot-api-v2 3.0.14+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.2+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.2+60c3209bd1
+	   |-- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.12+65089712d1
+	   |-- fabric-registry-sync-v0 5.1.2+60c3209bd1
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49cd1
+	   |-- fabric-renderer-indigo 1.7.0+c705a49cd1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
+	   |-- fabric-resource-loader-v0 1.3.0+56599129d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.86+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.16+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21
+	- mr_clifftree 2.0.1
+	- roguelike 2.0.8-1.21-fabric
+	- worldedit 7.3.8+6939-7d32b45
+[05:12:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/el-pozo-the-minecraft-series/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[05:12:56] [main/INFO]: Compatibility level set to JAVA_17
+[05:12:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[05:13:10] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@56ce8f7d]
+[05:13:10] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+[05:13:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:13:13] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
+[05:13:14] [Worker-Main-1/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[05:13:14] [main/INFO]: Loaded 1290 recipes
+[05:13:15] [main/INFO]: Loaded 1400 advancements
+[05:13:16] [main/INFO]: Applied 0 biome modifications to 0 of 91 new biomes in 2.042 ms
+[05:13:16] [Server thread/INFO]: Starting minecraft server version 1.21
+[05:13:16] [Server thread/INFO]: Loading properties
+[05:13:16] [Server thread/INFO]: Default game type: SURVIVAL
+[05:13:16] [Server thread/INFO]: Generating keypair
+[05:13:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:13:16] [Server thread/INFO]: Using epoll channel type
+[05:13:16] [Server thread/INFO]: Preparing level "world"
+[05:13:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:13:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:13:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:13:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:13:26] [Server thread/INFO]: Time elapsed: 1377 ms
+[05:13:26] [Server thread/INFO]: Done (9.170s)! For help, type "help"
+[05:13:35] [User Authenticator #1/INFO]: UUID of player jhonsts35 is 1ce95f52-762a-4ef8-aed3-a09ca6b4004c
+[05:13:37] [Server thread/INFO]: jhonsts35[/127.2.177.208:44499] logged in with entity id 73 at (78.54106966442386, 113.75105968432992, -166.78314662234254)
+[05:13:38] [Server thread/INFO]: jhonsts35 joined the game
+[05:14:06] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
