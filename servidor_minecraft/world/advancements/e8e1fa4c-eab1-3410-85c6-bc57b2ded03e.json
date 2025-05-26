@@ -1,0 +1,29 @@
+{
+  "minecraft:adventure/distant_lands": {
+    "criteria": {
+      "clifftree:sparse_forest": "2025-05-26 01:28:05 +0000",
+      "clifftree:temperate_beach": "2025-05-26 01:28:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-26 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-26 01:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-05-26 01:28:38 +0000",
+      "clifftree:sparse_forest": "2025-05-26 01:28:05 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}

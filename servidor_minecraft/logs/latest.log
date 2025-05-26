@@ -1,5 +1,5 @@
-[17:54:50] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.14
-[17:54:51] [main/INFO]: Loading 44 mods:
+[01:24:50] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.14
+[01:24:51] [main/INFO]: Loading 44 mods:
 	- fabric-api 0.102.0+1.21
 	   |-- fabric-api-base 0.4.42+6573ed8cd1
 	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
@@ -56,37 +56,95 @@
 	- mr_clifftree 2.0.1
 	- roguelike 2.0.8-1.21-fabric
 	- worldedit 7.3.8+6939-7d32b45
-[17:54:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/el-pozo-the-minecraft-series/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:54:52] [main/INFO]: Compatibility level set to JAVA_17
-[17:54:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:55:14] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@79a63bf8]
-[17:55:14] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
-[17:55:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:55:19] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
-[17:55:21] [Worker-Main-1/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[17:55:21] [main/INFO]: Loaded 1290 recipes
-[17:55:22] [main/INFO]: Loaded 1400 advancements
-[17:55:23] [main/INFO]: Applied 0 biome modifications to 0 of 91 new biomes in 6.051 ms
-[17:55:23] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:55:23] [Server thread/INFO]: Loading properties
-[17:55:23] [Server thread/INFO]: Default game type: SURVIVAL
-[17:55:23] [Server thread/INFO]: Generating keypair
-[17:55:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:55:24] [Server thread/INFO]: Using epoll channel type
-[17:55:24] [Server thread/INFO]: Preparing level "world"
-[17:55:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:36] [Server thread/INFO]: Time elapsed: 2436 ms
-[17:55:36] [Server thread/INFO]: Done (11.541s)! For help, type "help"
-[17:55:55] [User Authenticator #1/INFO]: UUID of player jhonsts35 is 1ce95f52-762a-4ef8-aed3-a09ca6b4004c
-[17:55:57] [Server thread/INFO]: jhonsts35[/127.2.177.208:41603] logged in with entity id 56 at (67.07543843085001, 92.96495558527917, -201.2596545937438)
-[17:55:57] [Server thread/INFO]: jhonsts35 joined the game
-[18:14:24] [Server thread/INFO]: [jhonsts35: Set the time to 1000]
-[18:44:46] [Server thread/INFO]: [jhonsts35: Set the time to 1000]
-[19:26:53] [Server thread/INFO]: jhonsts35 lost connection: Disconnected
-[19:26:53] [Server thread/INFO]: jhonsts35 left the game
-[19:42:40] [Server thread/WARN]: handleDisconnection() called twice
+[01:24:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/el-pozo-the-minecraft-series/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:24:51] [main/INFO]: Compatibility level set to JAVA_17
+[01:24:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:25:12] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@56ce8f7d]
+[01:25:12] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+[01:25:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:25:17] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
+[01:25:17] [Worker-Main-1/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[01:25:18] [main/INFO]: Loaded 1290 recipes
+[01:25:18] [main/INFO]: Loaded 1400 advancements
+[01:25:19] [main/INFO]: Applied 0 biome modifications to 0 of 91 new biomes in 4.069 ms
+[01:25:19] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:25:19] [Server thread/INFO]: Loading properties
+[01:25:19] [Server thread/INFO]: Default game type: SURVIVAL
+[01:25:19] [Server thread/INFO]: Generating keypair
+[01:25:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:25:19] [Server thread/INFO]: Using epoll channel type
+[01:25:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:25:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:25:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:25:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:25:20] [Server thread/INFO]: Preparing level "world"
+[01:25:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:25:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:25:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:25:29] [Server thread/INFO]: Time elapsed: 1110 ms
+[01:25:29] [Server thread/INFO]: Done (9.270s)! For help, type "help"
+[01:27:15] [Server thread/INFO]: jhonsts35[/127.2.177.208:37031] logged in with entity id 54 at (71.37424004240805, 96.0, -172.6092166816148)
+[01:27:15] [Server thread/INFO]: jhonsts35 joined the game
+[01:27:36] [Server thread/INFO]: jhonsts35 fell from a high place
+[01:28:03] [Server thread/INFO]: [jhonsts35: Set own game mode to Creative Mode]
+[01:28:05] [Server thread/INFO]: XxtomiokaxX[/127.102.138.22:35375] logged in with entity id 900 at (72.5, 98.0, -181.5)
+[01:28:05] [Server thread/INFO]: XxtomiokaxX joined the game
+[01:28:24] [Server thread/INFO]: [Not Secure] <XxtomiokaxX> hola
+[01:28:27] [Server thread/INFO]: [Not Secure] <jhonsts35> hola
+[01:28:30] [Server thread/INFO]: [Not Secure] <jhonsts35> vem
+[01:28:33] [Server thread/INFO]: [Not Secure] <XxtomiokaxX> llegó el más perrón digo q
+[01:28:49] [Server thread/INFO]: [Not Secure] <jhonsts35> aca
+[01:28:52] [Server thread/INFO]: [Not Secure] <XxtomiokaxX> sigo vivo
+[01:29:00] [Server thread/INFO]: jhonsts35copia[/127.2.177.208:34391] logged in with entity id 1164 at (67.5, 96.0, -175.5)
+[01:29:00] [Server thread/INFO]: jhonsts35copia joined the game
+[01:29:08] [Server thread/INFO]: [Not Secure] <jhonsts35> mira
+[01:29:40] [Server thread/INFO]: XxtomiokaxX was doomed to fall by jhonsts35
+[01:30:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=74, y=62, z=-167}
+[01:30:13] [Server thread/INFO]: [Not Secure] <jhonsts35> puedes venir
+[01:30:37] [Server thread/INFO]: [Not Secure] <XxtomiokaxX> man tu podés volar
+[01:30:46] [Server thread/INFO]: [jhonsts35: Teleported XxtomiokaxX to jhonsts35]
+[01:30:50] [Server thread/INFO]: [Not Secure] <jhonsts35> mira
+[01:31:14] [Server thread/INFO]: [Not Secure] <jhonsts35> ves que no se quita de la nada un bloque
+[01:31:28] [Server thread/INFO]: [Not Secure] <XxtomiokaxX> si
+[01:31:30] [Server thread/INFO]: [Not Secure] <jhonsts35> tu prueba
+[01:32:00] [Server thread/INFO]: [Not Secure] <jhonsts35> ves
+[01:32:03] [Server thread/INFO]: XxtomiokaxX fell from a high place
+[01:32:11] [Server thread/INFO]: [Not Secure] <jhonsts35> y antes con 3 ya pasaba mucho eso
+[01:32:23] [Server thread/INFO]: [Not Secure] <XxtomiokaxX> si
+[01:33:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=67, y=97, z=-178}
+[01:33:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=97, z=-179}
+[01:33:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=97, z=-179}
+[01:33:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=69, y=96, z=-179}
+[01:33:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=69, y=96, z=-179}
+[01:33:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=97, z=-179}
+[01:33:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=97, z=-179}
+[01:33:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=67, y=97, z=-178}
+[01:33:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=67, y=97, z=-178}
+[01:33:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=67, y=97, z=-178}
+[01:33:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=67, y=97, z=-178}
+[01:33:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=97, z=-179}
+[01:33:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=97, z=-179}
+[01:33:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=97, z=-179}
+[01:33:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=97, z=-179}
+[01:33:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=96, z=-178}
+[01:33:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=70, y=96, z=-179}
+[01:33:15] [Server thread/INFO]: jhonsts35copia was doomed to fall by jhonsts35
+[01:33:28] [Server thread/INFO]: [Not Secure] <jhonsts35copia> esta es la de mi cel
+[01:33:46] [Server thread/INFO]: [Not Secure] <jhonsts35> que tal ves el rendimiento
+[01:33:47] [Server thread/INFO]: XxtomiokaxX fell from a high place
+[01:33:53] [Server thread/INFO]: [Not Secure] <XxtomiokaxX> muy bueno
+[01:33:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=63, y=96, z=-171}
+[01:33:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=64, y=95, z=-171}
+[01:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=63, y=96, z=-171}
+[01:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=63, y=96, z=-170}
+[01:34:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=61, y=97, z=-170}
+[01:34:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=60, y=97, z=-170} class_2338{x=62, y=97, z=-170}
+[01:34:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=60, y=97, z=-170} class_2338{x=61, y=97, z=-171}
+[01:34:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=60, y=97, z=-170} class_2338{x=71, y=95, z=-176}
+[01:34:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=60, y=97, z=-170} class_2338{x=73, y=95, z=-177}
+[01:34:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=60, y=97, z=-170} class_2338{x=74, y=95, z=-177}
+[01:34:17] [Server thread/INFO]: [Not Secure] <jhonsts35> y aun faltan mods pero ahi voy
+[01:34:18] [Server thread/INFO]: jhonsts35copia was doomed to fall by XxtomiokaxX
+[01:34:27] [Server thread/INFO]: XxtomiokaxX fell from a high place
+[01:34:40] [Server thread/INFO]: [Not Secure] <jhonsts35> tambien lo de las skins como esta para no premiuns no deja poner skins
+[01:34:41] [Server thread/INFO]: [Not Secure] <XxtomiokaxX> me va más fluido que en bedrock xD
