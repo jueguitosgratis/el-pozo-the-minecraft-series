@@ -10,6 +10,7 @@
       "minecraft:beach": "2025-05-26 01:30:26 +0000",
       "clifftree:sparse_forest": "2025-05-26 00:01:39 +0000",
       "minecraft:forest": "2025-05-26 01:27:29 +0000",
+      "minecraft:ocean": "2025-05-26 01:32:49 +0000",
       "minecraft:savanna": "2025-05-26 00:08:34 +0000",
       "clifftree:temperate_beach": "2025-05-26 01:28:33 +0000"
     },
@@ -20,6 +21,7 @@
       "minecraft:beach": "2025-05-26 01:28:33 +0000",
       "clifftree:sparse_forest": "2025-05-26 00:01:39 +0000",
       "minecraft:forest": "2025-05-26 01:27:29 +0000",
+      "minecraft:ocean": "2025-05-26 01:32:49 +0000",
       "minecraft:savanna": "2025-05-26 00:08:34 +0000"
     },
     "done": false
@@ -30,9 +32,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-26 01:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-26 01:31:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-26 01:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-26 01:31:22 +0000"
     },
     "done": true
   },
